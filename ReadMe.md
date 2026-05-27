@@ -101,9 +101,8 @@ Cette simulation visait à présenter les résultats dans un cadre de conseil au
 ## 📦 Livrables
 
 - Notebook d’analyse exploratoire (Python) - France (NEDC)
-- Dashboard Power BI – France (WLTP)
-- Dashboard Power BI – Europe (Soutenance)
 - Rapport final de synthèse (PDF)
+- Dashboard Power BI (France (WLTP) et Europe (Soutenance)) disponibles ici : [Google Drive](https://drive.google.com/drive/folders/1DcDQBfhHv1V0o5mG8sokk7HL3V7ChyWA?usp=drive_link)
 - Synthèse des insights de soutenance
 
 ---
