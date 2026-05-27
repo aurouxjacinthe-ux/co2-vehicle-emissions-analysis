@@ -82,10 +82,10 @@ Cette simulation visait à présenter les résultats dans un cadre de conseil au
 ![Star Schema](Images/Star_schema.png)
 
 ### 📊 Dashboard France (WLTP)
-![Dashboard France](images/dashboard_france1.png)
+![Dashboard France](Images/dashboard_france.png)
 
 ### 🌍 Dashboard Europe (Soutenance)
-![Dashboard Europe](images/dashboard_europe.png)
+![Dashboard Europe](Images/dashboard_europe.png)
 
 ---
 
