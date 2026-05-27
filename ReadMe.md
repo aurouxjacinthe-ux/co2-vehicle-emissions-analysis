@@ -79,7 +79,7 @@ Cette simulation visait à présenter les résultats dans un cadre de conseil au
 ## 🧩 Aperçu du projet
 
 ### 🧱 Modélisation des données
-![Star Schema](Images/star_schema.png)
+![Star Schema](Images/Star_schema.png)
 
 ### 📊 Dashboard France (WLTP)
 ![Dashboard France](images/dashboard_france1.png)
